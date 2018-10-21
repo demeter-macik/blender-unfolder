@@ -11,7 +11,7 @@ pip3 install --user shapely
 ```
 
 Addon installation:
-- download [addon](unfolder.zip)
+- download [addon](https://github.com/demeter-macik/blender-unfolder/releases/download/0.1.0/unfolder-0.1.0.zip)
 - install addon from file in Blender - follow this [manual](https://docs.blender.org/manual/en/latest/preferences/addons.html)
 ![installation](https://github.com/demeter-macik/blender-unfolder/blob/develop/docs/images/unfolder-install.gif)
 
