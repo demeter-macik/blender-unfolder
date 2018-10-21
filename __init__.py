@@ -8,7 +8,7 @@ bl_info = {
     "warning": "Requires Shapely to be installed (https://pypi.org/project/Shapely/)",
     "wiki_url": "https://github.com/demeter-macik/blender-unfolder/blob/master/README.md",
     "tracker_url": "https://github.com/demeter-macik/blender-unfolder/issues",
-    "support": "TESTING",
+    "support": "COMMUNITY",
     "category": "Mesh"
 }
 
