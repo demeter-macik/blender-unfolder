@@ -2,7 +2,7 @@ bl_info = {
     "name": "Unfolder",
     "description": "Unfold (unwrap) mesh, create new meshes from faces and align them to XY plane.",
     "author": "Demeter Macik",
-    "version": (1, 0, 0),
+    "version": (0, 1, 0),
     "blender": (2, 79, 0),
     "location": "3D View > Tools, and Properties > Scene > Unfolder",
     "warning": "Requires Shapely to be installed (https://pypi.org/project/Shapely/)",
