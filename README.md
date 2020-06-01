@@ -1,4 +1,8 @@
-# Unfolder [Blender addon]
+# !OBSOLETE
+
+This addon will not be maintained or updated.
+
+# Unfolder [Blender 2.79 addon]
 
 This addon helps to unfold / unwrap meshes. Could be useful for laser cutter model preprocessing.
 
